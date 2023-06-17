@@ -1,0 +1,1 @@
+my newbie nvim config
