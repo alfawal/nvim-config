@@ -1,1 +1,1 @@
-my newbie nvim config
+# my newbie nvim config
